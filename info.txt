@@ -1,0 +1,5 @@
+Name: [Sasha]
+Course: DevOps Essensials
+Week: 1
+Status: Completed
+
